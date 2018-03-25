@@ -92,7 +92,7 @@ namespace PairTradingView.WpfApp {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PairTradingView.WpfApp;component/appstartwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AlarmTool;component/appstartwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\AppStartWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
